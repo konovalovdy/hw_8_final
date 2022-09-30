@@ -1,0 +1,32 @@
+[
+  {
+    "id_product": 1001,
+    "product_name": "Куртка",
+    "price": 52
+  },
+  {
+    "id_product": 1002,
+    "product_name": "Костюм женский",
+    "price": 39
+  },
+  {
+    "id_product": 1003,
+    "product_name": "Худи",
+    "price": 19
+  },
+  {
+    "id_product": 1004,
+    "product_name": "Футболка",
+    "price": 9
+  },
+  {
+    "id_product": 1005,
+    "product_name": "Пиджак женский",
+    "price": 49
+  },
+  {
+    "id_product": 1006,
+    "product_name": "Рубашка женская",
+    "price": 14
+  }
+]
